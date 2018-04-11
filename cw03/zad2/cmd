@@ -1,0 +1,14 @@
+echo raz
+echo dwa
+echo trzy
+ls
+
+
+
+tar -xcf xd xd
+echo koniec
+xd lol
+echo jeszcze
+ls -l -a
+ps
+/home/grzegorz/sysopy/cw01/zad1/test

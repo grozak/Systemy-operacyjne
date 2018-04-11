@@ -1,0 +1,5 @@
+echo raz
+./test
+echo dwa
+./test2
+echo trzy
